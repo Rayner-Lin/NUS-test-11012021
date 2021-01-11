@@ -10,3 +10,5 @@ Who want some coffee?
 * cloud with Gilbert
 * docker - if time permits
 * handout reading assignments and homework!
+
+![](Think Tank.jpg)
