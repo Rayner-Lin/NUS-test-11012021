@@ -11,4 +11,4 @@ Who want some coffee?
 * docker - if time permits
 * handout reading assignments and homework!
 
-![](Think Tank.jpg)
+![](Think Tank.JPG)
