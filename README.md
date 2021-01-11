@@ -9,3 +9,4 @@ Who want some coffee?
 * more git
 * cloud with Gilbert
 * docker - if time permits
+* handout reading assignments and homework!
